@@ -9,7 +9,7 @@ const collectEmployees = function() {
     // Prompt user for employee data
     const firstName = prompt('Enter the first name of the employee:');
     const lastName = prompt('Enter the last name of the employee:');
-    let salary; // Declare salary variable outside the loop
+    let salary; // Declare salary variable outside the loop; changed this to for next while loop
 
     // Ask for salary until a valid number is provided
     while (true) {

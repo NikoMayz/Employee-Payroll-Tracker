@@ -44,4 +44,40 @@ GIVEN an employee payroll tracker
 
 This project demonstrates my ability to create interactive web applications that collect, process, and display data based on user input, meeting the specified acceptance criteria.
 
+# <h3>Installation
+
+To run this website locally, follow these steps:
+
+    Clone the repository:
+
+    bash
+    Copy code
+    git clone https://github.com/NikoMayz/Portfolio-WC2.git
+
+
+
+    Navigate to the project directory:
+    bash
+    Copy code
+    cd your-repository
+    Open the index.html file in a web browser.
+
+    
+
+# <h3>Contributing<h3>
+
+Contributions are welcome! If you find any issues or would like to suggest improvements, please feel free to open an issue or submit a pull request.
+
+# <h3>Credits<h3>
+
+    Created by Michael Young https://github.com/NikoMayz
+    https://nikomayz.github.io/Employee-Payroll-Tracker
+    https://github.com/NikoMayz/Employee-Payroll-Tracker
+
+
+# <h3>License<h3>
+
+This project is licensed under the MIT License.
+
+
 #
