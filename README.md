@@ -52,7 +52,7 @@ To run this website locally, follow these steps:
 
     bash
     Copy code
-    git clone https://github.com/NikoMayz/Portfolio-WC2.git
+    git clone https://github.com/NikoMayz/Employee-Payroll-Tracker.git
 
 
 
